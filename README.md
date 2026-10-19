@@ -1,6 +1,6 @@
 ### Hi 👋 我是 ranpin，端侧 AI 工程师。
 - 关注方向：智能机器人 / 具身智能、自动驾驶、智能座舱。
-- 关注技术：Agent Harness · VLA 与世界模型模型 · 压缩与量化 · 边缘部署（Jetson Orin / 高通8x97 / NPU）。
+- 关注技术：Agent Harness · VLA 与世界模型 · 压缩与量化 · 边缘部署（Jetson Orin / 高通8x97 / NPU）。
 
 🏠 [个人主页](https://ranpin.github.io/) ｜ 📚 [端侧 AI 技术文档](https://ranpin.github.io/edge-ai-docs/) 
 
