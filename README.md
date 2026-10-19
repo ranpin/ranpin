@@ -1,7 +1,8 @@
 ### Hi 👋 我是 ranpin
 
-端侧 AI 工程师，正从**智能座舱**向**智能机器人 / 具身智能**方向深入。
-关注：模型压缩与量化 · 边缘部署（Jetson Orin / NPU）· VLA 与世界模型 · Agent 运行时
+端侧 AI 工程师。
+关注方向：智能座舱、自动驾驶、智能机器人 / 具身智能。
+关注技术：模型压缩与量化 · 边缘部署（Jetson Orin / NPU）· VLA 与世界模型 · Agent Harness
 
 📚 [端侧 AI 技术文档](https://ranpin.github.io/edge-ai-docs/) ｜ 🏠 [个人主页](https://ranpin.github.io/)
 
@@ -20,7 +21,6 @@
 - **[mirix-cpp](https://github.com/ranpin/mirix-cpp)** — 多模态交互记忆系统（C++）
 - **[chat_huanhuan](https://github.com/ranpin/chat_huanhuan)** — 甄嬛传角色对话系统（Ollama + MCP）
 - **[aadkMemory](https://github.com/ranpin/aadkMemory)** — FAISS 对话记忆检索
-- **[MagicEye](https://github.com/ranpin/MagicEye)** — 手势 + AI 魔法交互（微信小程序）
 
 #### 🛣️ 自动驾驶（读研期间 2022–25）
 
@@ -33,3 +33,11 @@
 - **[ranpin.github.io](https://github.com/ranpin/ranpin.github.io)** — 个人主页
 - **[openResume](https://github.com/ranpin/openResume)** — 在线简历中心
 - **[easter-egg-map](https://github.com/ranpin/easter-egg-map)** — 旅行彩蛋 UGC 平台
+- **[MagicEye](https://github.com/ranpin/MagicEye)** — 手势 + AI 魔法交互（微信小程序）
+
+#### 🎓 本科项目
+
+- **[agriculturalScience](https://github.com/ranpin/agriculturalScience)** — 智慧e农 / 土圈后台管理系统（Java EE + BeX5 移动端，存档）
+- **[JavaTiku](https://github.com/ranpin/JavaTiku)** — 《Java2 实用教程》配套练习题库程序（Java Swing）
+- **[musicPlayer](https://github.com/ranpin/musicPlayer)** — 仿网易云音乐播放器（Vue 2）
+- **[ptaCode](https://github.com/ranpin/ptaCode)** — PTA 习题练习
