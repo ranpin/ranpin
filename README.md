@@ -26,7 +26,7 @@
 
 #### 🛣️ 自动驾驶（读研期间 2022.09–2025.06）
 
-- **[cam2label](https://github.com/ranpin/cam2label)** — Grad-CAM 热力图自动生成旋转框标注
+- **[heat2label](https://github.com/ranpin/heat2label)** — 热力图自动生成伪框标注（DAAM 交叉注意力 + Grad-CAM++ 两路）
 - **[offroad-judge-suite](https://github.com/ranpin/offroad-judge-suite)** — 越野挑战赛多传感器评测基础设施（2023）
 - **[Resnet50_TensorRT](https://github.com/ranpin/Resnet50_TensorRT)** — ResNet50 TensorRT 部署（fork）
 
